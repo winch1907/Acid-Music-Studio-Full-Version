@@ -239,3 +239,6 @@ This repository serves as the official landing page for ACID Music Studio. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ACID Music Studio today!**
+
+---
+**Last updated:** 2026-09-12 18:53:14 UTC
